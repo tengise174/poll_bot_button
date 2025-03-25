@@ -184,4 +184,4 @@ import {
   
   
   
-  
+// Татах линк : https://discord.com/oauth2/authorize?client_id=1354052417066635284&permissions=8&integration_type=0&scope=bot+applications.commands
